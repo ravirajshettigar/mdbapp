@@ -1,0 +1,7 @@
+.login-container{
+    margin: 50px auto;
+    max-width: 500px;
+}
+form > div {
+    margin-bottom: 10px;
+}
